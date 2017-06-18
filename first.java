@@ -3,8 +3,8 @@ class first
 {
 public void main (string args[])
 {
-	system.out.println("my first program version 1.0");
-}
+	system.out.println("Radha - first program version 2.0");
 }
 
+}
 
